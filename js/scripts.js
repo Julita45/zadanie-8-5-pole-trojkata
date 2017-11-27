@@ -7,6 +7,5 @@ h = prompt ('enter triangle height', h);
 
 triangleArea = a * h / 2;
 
-alert('Triangle surface area is equal to: ' + triangleArea);
+alert('Triangle surface area with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
 console.log('Triangle surface area with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
-
